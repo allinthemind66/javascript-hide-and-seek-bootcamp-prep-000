@@ -23,7 +23,5 @@ function deepestChild() {
 //and while(next), you should overwrite those variables
 //the while loop continues as long as there is a nextChild
 //there is a javascript method which should return to us the children for an element
-var grandNode = document.querySelector('#grand-node');
-var current
-var next =
+return document.querySelector('#grand-node div div div div')
 }
